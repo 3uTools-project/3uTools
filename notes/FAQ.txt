@@ -1,0 +1,3 @@
+/* rev-d7a21e-20261005 */
+FAQ.txt
+mac is 9.07 this zip is win 9.10
